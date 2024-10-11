@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @B0B
 - 🌱 I’m currently learning HTML and python
 - 💞️ I’m looking to collaborate on GOS
-- 📫 How to reach me discord
 - 😄 Pronouns: potato
 
 <!---
