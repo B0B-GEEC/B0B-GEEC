@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @B0B
-- 🌱 I’m currently learning HTML and python
-- 💞️ I’m looking to collaborate on GOS
-- 😄 Pronouns: potato
+potato
 
 <!---
 B0B-GEEC/B0B-GEEC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
